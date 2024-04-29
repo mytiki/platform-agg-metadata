@@ -4,7 +4,7 @@ _extends: .github
 
 repository:
   name: platform-agg-metadata
-  description: Metadata writer for your mytiki.com managed data catalog
+  description: Metadata writer for mytiki.com managed data catalogs
   homepage: https://mytiki.com/platform/aggregation
   topics: aggregation, catalog, metadata
   private: false
